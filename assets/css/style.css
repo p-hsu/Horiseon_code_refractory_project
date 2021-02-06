@@ -18,7 +18,7 @@ header {
 
 header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 54px;
 }
 
 header h1 .seo {
@@ -30,7 +30,7 @@ header nav {
     padding: 18px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 a {
@@ -123,13 +123,13 @@ aside img {
 }
 
 /* This section is for the footer */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
-    font-size: 20px;
+footer h2 {
+    font-size: 18px;
 }
