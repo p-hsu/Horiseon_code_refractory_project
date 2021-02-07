@@ -32,12 +32,12 @@ The Horiseon Social Solution Servies, Inc. Marketing Department has asked for ce
 
 Please use the following link to deploy live URL of this project:
 
-[Horiseon Social Solutioins Services , Inc.](https://p-hsu.github.io/Horiseon_code_refractory_project/)
+[Horiseon Social Solutions Services , Inc.](https://p-hsu.github.io/Horiseon_code_refractory_project/)
 
 ## Credit
 
-* Original HTML and CSS code owned by © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand
-* [favicon](./assets/images/favicon.icon) favicon created using [favicon.ico Generator](https://www.favicon.cc)
+* Original HTML, CSS code, and most images owned by © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand
+* [favicon](./assets/images/Horiseon-favicon.icon) favicon created using [favicon.ico Generator](https://www.favicon.cc)
 
 
 
