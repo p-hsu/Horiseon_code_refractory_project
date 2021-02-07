@@ -37,7 +37,7 @@ Please use the following link to deploy live URL of this project:
 ## Credit
 
 * Original HTML, CSS code, and most images owned by © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand
-* [favicon](./assets/images/Horiseon-favicon.icon) favicon created using [favicon.ico Generator](https://www.favicon.cc)
+* ![favicon](./assets/images/Horiseon-favicon.icon) favicon created using [favicon.ico Generator](https://www.favicon.cc)
 
 
 
